@@ -1,0 +1,122 @@
+[
+  {
+    "playerImg": "https://i.ibb.co.com/qY1DcQ3n/download.jpg",
+    "playerName": "Shakib Al Hasan",
+    "playerCountry": "Bangladesh",
+    "playingRole": "All-rounder",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Slow left-arm orthodox",
+    "rating": 9.3,
+    "price": 120000
+  },
+  {
+    "playerImg": "https://i.ibb.co.com/SXfZBxP7/Tamim.jpg",
+    "playerName": "Tamim Iqbal",
+    "playerCountry": "Bangladesh",
+    "playingRole": "Batsman",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "rating": 8.6,
+    "price": 95000
+  },
+  {
+    "playerImg": "https://i.ibb.co.com/C3TxNqKb/download.jpg",
+    "playerName": "Mushfiqur Rahim",
+    "playerCountry": "Bangladesh",
+    "playingRole": "Wicketkeeper Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "N/A",
+    "rating": 8.8,
+    "price": 87000
+  },
+  {
+    "playerImg": "https://i.ibb.co.com/5g36gyJM/download.jpg",
+    "playerName": "Mahmudullah Riyad",
+    "playerCountry": "Bangladesh",
+    "playingRole": "All-rounder",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "rating": 8.2,
+    "price": 75000
+  },
+  {
+    "playerImg": "https://i.ibb.co.com/20ZDVdZ2/download.jpg",
+    "playerName": "Mustafizur Rahman",
+    "playerCountry": "Bangladesh",
+    "playingRole": "Bowler",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast-medium",
+    "rating": 8.9,
+    "price": 110000
+  },
+  {
+    "playerImg": "https://i.ibb.co.com/fwhVmmc/download.jpg",
+    "playerName": "Liton Das",
+    "playerCountry": "Bangladesh",
+    "playingRole": "Wicketkeeper Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "N/A",
+    "rating": 8.4,
+    "price": 69000
+  },
+  {
+    "playerImg": "https://i.ibb.co.com/sp2sftPn/download.jpg",
+    "playerName": "Andre Russell",
+    "playerCountry": "West Indies",
+    "playingRole": "All-rounder",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "rating": 9.1,
+    "price": 150000
+  },
+  {
+    "playerImg": "https://i.ibb.co.com/ZRXYJRhg/images.jpg",
+    "playerName": "Chris Gayle",
+    "playerCountry": "West Indies",
+    "playingRole": "Batsman",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "rating": 9.0,
+    "price": 135000
+  },
+  {
+    "playerImg": "https://i.ibb.co.com/Y4cY9Jrx/download.jpg",
+    "playerName": "Kieron Pollard",
+    "playerCountry": "West Indies",
+    "playingRole": "All-rounder",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium-fast",
+    "rating": 8.7,
+    "price": 125000
+  },
+  {
+    "playerImg": "https://i.ibb.co.com/q3LGmptP/download.jpg",
+    "playerName": "Rashid Khan",
+    "playerCountry": "Afghanistan",
+    "playingRole": "Bowler",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm legbreak googly",
+    "rating": 9.4,
+    "price": 145000
+  },
+  {
+    "playerImg": "https://i.ibb.co.com/7JN8tRTj/images.jpg",
+    "playerName": "David Miller",
+    "playerCountry": "South Africa",
+    "playingRole": "Batsman",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "rating": 8.5,
+    "price": 98000
+  },
+  {
+    "playerImg": "https://i.ibb.co.com/RkmKkxyj/download.jpg",
+    "playerName": "AB de Villiers",
+    "playerCountry": "South Africa",
+    "playingRole": "Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "rating": 9.6,
+    "price": 160000
+  }
+]

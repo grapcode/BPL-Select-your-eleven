@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import userImg from '../../assets/user-1.png';
 import flagImg from '../../assets/report-1.png';
+import { toast } from 'react-toastify';
 
 const PlayerCard = ({
   player,
@@ -15,13 +16,18 @@ const PlayerCard = ({
   // ------💥 choose player btn function
   const handleSelected = (player) => {
     if (availableBalance < player.price) {
-      alert('Not Enough coins!!');
+      toast('Not Enough coins!!');
+      return;
+    }
+    if (purchasedPlayers.length === 6) {
+      toast('6 players already selected!');
       return;
     }
     setSelected(true);
     // setAvailableBalance(availableBalance - player.price.split('USD').join('').split(',').join(''));
     setAvailableBalance(availableBalance - player.price);
     setPurchasedPlayers([...purchasedPlayers, player]);
+    toast('Player purchased!');
   };
 
   // ------⚡ single cart dynamic
